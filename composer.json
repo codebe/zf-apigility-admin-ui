@@ -28,7 +28,7 @@
     },
     "require": {
         "php": ">=5.5",
-        "rwoverdijk/assetmanager": "~1.5",
+        "rwoverdijk/assetmanager": "1.5.1-dev",
         "zendframework/zend-view": "~2.3"
     },
     "require-dev": {
